@@ -1,1 +1,1 @@
-# -DigitalLiteraryStylistic.github.io
+# DigitalLiteraryStylistic.github.io
