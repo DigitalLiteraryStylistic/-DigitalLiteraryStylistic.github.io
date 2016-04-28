@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.main-header {
+  text-align: center;
+  background: #d5d5d5;
+}
