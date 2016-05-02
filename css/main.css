@@ -45,6 +45,7 @@ ul.posts li {
 .main-header {
   text-align: center;
   background: #BBB559;
+  margin: 20px auto 40px; 
 }
 
 .blurb {
