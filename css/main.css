@@ -47,6 +47,10 @@ ul.posts li {
   background: #d5d5d5;
 }
 
+.blurb {
+  text-align: center;   
+}
+
 img.ri
 {
   max-width: 100%;
