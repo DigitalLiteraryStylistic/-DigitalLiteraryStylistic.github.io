@@ -46,3 +46,13 @@ ul.posts li {
   text-align: center;
   background: #d5d5d5;
 }
+
+img.ri
+{
+	position: absolute;
+	max-width: 80%;
+	top: 10%;
+	left: 10%;
+	border-radius: 3px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.9);
+}
