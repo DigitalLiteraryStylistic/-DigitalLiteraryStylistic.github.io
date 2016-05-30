@@ -35,7 +35,7 @@ a.header:hover {
 }
 
 a.tg {
-    text-decoration: none;
+    text-decoration: underline;
     color: #000000;
 }
 
