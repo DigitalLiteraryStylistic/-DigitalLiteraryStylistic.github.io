@@ -34,6 +34,15 @@ a.header:hover {
     text-decoration: underline;
 }
 
+a.tg {
+    text-decoration: none;
+    color: #000000;
+}
+
+a.tg:hover {
+    text-decoration: underline;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
