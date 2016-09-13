@@ -52,6 +52,15 @@ a.tg:hover {
     text-decoration: underline;
 }
 
+a.slides {
+    text-decoration: underline;
+    color: #cc0000;
+}
+
+a.slides:hover {
+    text-decoration: underline;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
